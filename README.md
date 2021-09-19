@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tenali1994
 - 👀 I’m interested in Robotics & Autonomous Systems
-- 🌱 I’m currently learning OOPS
+- 🌱 I’m currently learning Motion Planing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
